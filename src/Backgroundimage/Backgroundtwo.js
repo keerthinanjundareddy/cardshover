@@ -27,7 +27,7 @@ const Backgroundtwo= () => {
     <>
    
 
-   <div style={{textAlign:"center",color:"green",marginTop:"20px",fontSize:"20px"}}><b>DIGITAL AND PERFORMANCE MARKETING</b></div>
+   <div style={{textAlign:"center",color:"green",marginTop:"20px",fontSize:"20px"}}><b>OUR-OFFERS(DIGITAL AND PERFORMANCE MARKETING)</b></div>
     <div className="card-container">
        {dummyData.map((data, index) => (
        <div
